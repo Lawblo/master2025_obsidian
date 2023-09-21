@@ -1,0 +1,4 @@
+- Poenget: Å beskrive populasjonen ut fra informasjon fra utvalget med en bestemt grad av sikkerhet 
+- Gjelder funn for utvalg for populasjonen?
+- Kompliserte bakenomliggende prinsipper. 
+- Estimat (utvalget) $\rightarrow$ parameter (populasjonen)

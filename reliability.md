@@ -1,0 +1,1 @@
+An operational measure of a concept is said to be reliable to the extent that it is repeatable or cinsistent. 

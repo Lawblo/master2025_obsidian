@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "FiraCode Nerd Font Mono,Input Mono,Cambria",
+  "textFontFamily": "Iosevka Nerd Font,Input Mono,Monofur Nerd Font Mono,SauceCodePro Nerd Font Mono,JetBrainsMono Nerd Font,FiraCode Nerd Font Mono,Cambria",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono,Input Mono,Courier New",
+  "translucency": true,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "text_width",
+    "header_size"
+  ]
+}

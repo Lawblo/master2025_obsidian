@@ -1,0 +1,1 @@
+Researchers implement the same procedures repeatedly in identical form to see if the relationships hold in  a consistent fashion.

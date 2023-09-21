@@ -1,0 +1,1 @@
+The degree to which we can be confident that the results of our analysis apply not only to the participants in the study, but to the population more broadly construed.

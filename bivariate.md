@@ -1,0 +1,1 @@
+Involving just two variables

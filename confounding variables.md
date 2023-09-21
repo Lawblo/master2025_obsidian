@@ -1,0 +1,1 @@
+A [[variables]] that is [[correlation|correlated]] withboth the independent and dependent variables and that somehow alters the relationship between those two variables. 

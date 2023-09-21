@@ -1,0 +1,1 @@
+The larger the sample size, the smaller the [[variance]] of the estimate.

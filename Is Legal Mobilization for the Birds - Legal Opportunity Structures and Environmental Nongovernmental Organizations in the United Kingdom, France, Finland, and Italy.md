@@ -1,0 +1,6 @@
+#vanhala #sampol306 
+*What explains the likelihood that a nongovernmental organization (NGO) will turn to the courts to pursue their policy goals?** This article **explores** the **factors that influence the mobilization of law by environmental NGOs** in four Western European countries. It **finds** that explanations focused on legal opportunity structures are unable to account for the patterns of within country variation in legal mobilization behavior. The research also shows that **bird protection** NGOs as well as **home-grown national environmental** NGOs are generally **more likely to turn to law** than transnational environmental groups. Although resources and legal opportunities clearly matter to some extent, the author suggests - drawing on sociological instituionalist theory - that explanations of NGO legal mobilization should (a) **incorporate and understanding of how groups frame and interpret the idea of "the law"** and (b) **explore the role of "strategy entrepreneurs" who promote the use of particular tactivs within an organization**.*
+
+---
+**In short...**
+..."*the findings here suggest there is no straightforward relationship between the role of legal professionalswithin an organization and their likelihood of mobilizing the law*."

@@ -1,0 +1,5 @@
+.markdown-source-view, .markdown-preview-view {
+/*.CodeMirror-lines, .CodeMirror-selected, .markdown-preview-section{*/
+max-width: 1250px;
+margin: auto;
+}

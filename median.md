@@ -1,0 +1,1 @@
+The value of the cases that sists at the exact center of cases when ranked from samllest to largest observed values. When there is an even number of cases, we average the value of the two centermost ranked cases. 
